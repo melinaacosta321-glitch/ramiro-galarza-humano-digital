@@ -3,7 +3,7 @@
 
 **Página publicada:** https://melinaacosta321-glitch.github.io/ramiro-galarza-humano-digital/
 
-Personaje inventado para «El Gran Juicio de la IA» (Ética con IA). Ficha ética: [ficha-etica-ramiro-galarza.pdf](ficha-etica-ramiro-galarza.pdf). Autora: Melina.
+Ficha ética: [ficha-etica-ramiro-galarza.pdf](ficha-etica-ramiro-galarza.pdf).
 
 Personaje inventado para El Gran Juicio de la IA (Ética con IA). Agrimensor de El Colorado, Formosa, creador de una IA que digitaliza planos viejos. Autora: Melina.
 
